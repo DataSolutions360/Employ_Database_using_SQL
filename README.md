@@ -35,7 +35,7 @@ As you can see, duplicates have been removed, i.e. employees only showing CURREN
 Based on the large amount of employees retiring, it is suggested that Pewlett-Hackard attempt to recoup the expected "silver tsunami" of lost employees to retirement.  The mentorship eligibility program has 1549 eligible "internal replacements", but that does NOT begin to address the vast amount 72,458 employees.  That is a ration of about 47:1, employees : mentor.  That is not a lot of hands on internal cultivation.  Possible remedies could be 1) internal training for staff to move up 2) external recruitment for more qualified backfill employment, and 3) widen the job scopes to allow for overlapping and more peer to peer training, holistically.
 
 
-###Resources
+### Resources
 
 Postgres (PG ADMIN 6.8)
 Postgres 11.16
